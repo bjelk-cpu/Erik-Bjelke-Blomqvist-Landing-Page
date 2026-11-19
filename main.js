@@ -23,5 +23,5 @@ app.ticker.add(() => {
       dots.circle(x, y, Math.max(1, 8 - distance / 30));
     }
   }
-  dots.fill("#dd1616"); // lägger till färg på prickarna
+  dots.fill("#f0555f"); // lägger till färg på prickarna
 });
